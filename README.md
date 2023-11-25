@@ -1,17 +1,2 @@
-## Cloning and Running the Application in local
-
-Clone the project into local
-
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
-
-```bash
-npm install
-```
-
-In order to run the application Type the following command
-
-```bash
-npm start
-```
-
-The Application Runs on **localhost:3000**
+Output:
+![image](https://github.com/kabilan2902/calculator/assets/91867842/c59fc78b-6ec6-49e7-92f1-9302ece247a9)
